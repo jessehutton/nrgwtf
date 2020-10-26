@@ -18,17 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jesse Hutton / NRG_
+title: Jesse Hutton | NRG_ | Front-End Developer | Content Creator
 email: nrg4everyone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Experienced frontend developer of over 5 years, Twitch Streamer, Content Creator
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nrg_jesse
-github_username:  jessehutton
+facebook: https://www.facebook.com/djjaylee
+twitter: https://www.twitter.com/nrg_jesse
+github:  https://github.com/jessehutton/
+linkedin: https://www.linkedin.com/in/jesse-hutton-96299bb8/
+instagram: https://www.instagram.com/nrg_jesse/
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
